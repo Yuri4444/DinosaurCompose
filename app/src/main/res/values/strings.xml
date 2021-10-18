@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DinosaurCompose</string>
+
+    <!--    Title toolbar-->
+    <string name="air_dinosaurs">Air dinosaurs</string>
+    <string name="land_dinosaurs">Land dinosaurs</string>
+    <string name="aqua_dinosaurs">Water dinosaurs</string>
+
+    <!--    ButtonNavigationBar-->
+    <string name="home">Home</string>
+    <string name="land">Land</string>
+    <string name="water">Water</string>
+    <string name="air">Air</string>
+
+    <!--    TabLayout-->
+    <string name="triassic">Triassic</string>
+    <string name="jurassic">Jurassic</string>
+    <string name="cretaceous">Cretaceous</string>
+
+    <!--    Details-->
+    <string name="description_land"> Habitat time:\n Height\n Length:\n Weight:\n First found:\n Meaning of the name:</string>
+    <string name="description_aqua"> Habitat time:\nLength:\nFirst found:\nMeaning of the name:</string>
+    <string name="description_air"> Habitat time:\nWingspan:\nFirst found:\nMeaning of the name:</string>
+    <string name="search">Search</string>
+    <string name="change_mode">Change mode</string>
+    <string name="dinosaur_map">Dinosaur map</string>
+    <string name="puzzles">Puzzles</string>
+    <string name="dinosaur_comparison">Dinosaur comparison</string>
+    <string name="charts">Dinosaur stats</string>
+    <string name="quantity_of_dinosaurs">Quantity of dinosaurs</string>
+    <string name="length_of_dinosaurs">Length of dinosaurs</string>
+</resources>
